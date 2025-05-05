@@ -8,7 +8,7 @@ const Work = () => {
     <div id="work" className="w-full px-[12%] py-10 scroll-mt-20">
     <h4 className="text-center mb-2 text-lg font-Ovo">My portfolio</h4>
     <h2 className="text-center text-5xl font-Ovo">My latest work</h2>
-    <p className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">Welcome to my web development portfolio! Explore a collection of projects showcasing my expertise in front-end development.</p>
+    <p className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">Welcome to my web development portfolio! Explore a collection of projects showcasing my expertise in front-end and back-end development.</p>
 
     <div className="grid grid-cols-auto my-10 gap-5 dark:text-black">
         <div className="aspect-square bg-[url('./assets/work-1.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
